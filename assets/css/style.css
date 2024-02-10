@@ -1,0 +1,19 @@
+.textBtn,
+.colorBtn {
+  font-size: 20px;
+  border-radius: 35%;
+  margin: 50px auto;
+  display: block;
+}
+
+.sliderWrapper {
+  width: 600px;
+  height: 200px;
+  margin: 100px auto 0;
+}
+
+.sliderWrapper > .changeImgAnimals {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
